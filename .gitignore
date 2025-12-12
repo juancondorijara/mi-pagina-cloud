@@ -1,8 +1,10 @@
+vallegrande2/
+
 vallegrande3/
 
 vallegrande-ignorado/README2.md
 
 README2.md
 
-# git rm -r --cached vallegrande-ignorado
+# git rm -r --cached vallegrande2
 # git rm -r --cached README2.md
